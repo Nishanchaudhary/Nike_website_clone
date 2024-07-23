@@ -1,0 +1,95 @@
+body {
+  margin-top: 0px;
+  background-color: #fff;
+}
+.topnav {
+  background-color: rgb(220, 221, 222);
+  width: 100%;
+  height: 30px;
+}
+
+.topnav2 {
+  width: 100%;
+  height: 30px;
+  justify-content: end;
+  /* border: 2px solid yellow !important; */
+  padding-right: 40px;
+  width: 100%;
+}
+
+.nike {
+  width: 100%;
+}
+
+.chaildnike {
+  height: 50px;
+  justify-content: center;
+  /* border: 2px solid yellow; */
+  width: 69%;
+  font-size: 19px;
+  padding-top: 12px;
+}
+.search {
+  height: 50px;
+  justify-content: center;
+  /* border: 2px solid yellow; */
+  width: 40%;
+  font-size: 19px;
+  padding-top: 12px;
+  padding-right: 0px;
+}
+.search #search {
+  width: 180px;
+  height: 33px;
+  background-color: rgb(236, 233, 233);
+  font-size: large;
+  border-radius: 8px;
+  border-color: 1px 1px 1px 1px rgb(236, 233, 233);
+}
+
+.buttons button {
+  background-color: black;
+  color: #fff;
+  height: 33px;
+}
+.buttons button:hover {
+  background-color: rgba(165, 164, 164, 0.95);
+  transform: translate(1px, 2px);
+}
+.shop {
+  height: auto;
+}
+.button1 {
+  color: black;
+  background-color: white;
+  height: 37px;
+  width: 80px;
+  border-radius: 13px;
+}
+.button1:hover {
+  background-color: rgb(159, 157, 157);
+  transform: translate(1px, 2px);
+}
+
+.shoes-shop {
+  height: 300px;
+  width: 100%;
+  /* border: 2px solid rgb(255, 38, 0); */
+  align-items: center;
+  gap: 18px;
+}
+
+.shoes-card {
+  align-items: center;
+  height: 260px;
+  width: 300px;
+  background-color: #ededed;
+ 
+  border: 2px solid #fff;
+  padding-left: 40px;
+  padding-top: 20px;
+}
+.shoes-card img{
+    background-color: #ededed;
+
+}
